@@ -1,4 +1,4 @@
-# passwordgenerator
+# Password Generator
 
 ## Description
 
@@ -10,14 +10,9 @@ I made a password generator to generate passwords for people who need help makin
 
 Click on the "generate password" button and follow the prompts to generate a password. See screenshots:
 
+![alt text](./assets/Screenshot1.png);
 
-    ```md
-    ![alt text](assets/Screenshot1.png)
-    ```
-
-        ```md
-    ![alt text](assets/Screenshot2.png)
-    ```
+![alt text](./assets/Screenshot2.png);
 
 ## Credits
 
